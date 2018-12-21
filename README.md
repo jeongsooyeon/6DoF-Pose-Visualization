@@ -1,11 +1,13 @@
 # 6DoF-Pose-Visualization
 4차산업혁명의이해
+
 1.STEAM VR 을 사용하여 3차원 그림을 그렸다.
 
 2.python 을 통해 3차원 그림과 x,y,z축의 값을 받아왔다.
 
 -data1 (점 50개) : ‘JSY(이름 초성)’을 공간에 그리고자 하였다.
 
+![stream_181205_153430_screen](https://user-images.githubusercontent.com/45751310/50328918-61491e00-0538-11e9-83da-fd7e12fd3a5d.png)
 
 #screen 사진1
 
