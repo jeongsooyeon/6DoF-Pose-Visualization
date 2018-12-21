@@ -4,7 +4,7 @@ __1.STEAM VR 을 사용하여 2개의 3차원 그림을 그렸다.__
  
 _-data1 (점 50개)_
 
-‘JSY(이름 초성)’을 공간에 그리고자 하였다._
+‘JSY(이름 초성)’을 공간에 그리고자 하였다.
 
 ![stream_181205_153430_screen](https://user-images.githubusercontent.com/45751310/50328918-61491e00-0538-11e9-83da-fd7e12fd3a5d.png)
 
